@@ -31,7 +31,7 @@
    ```
    python app.py
    ```
-   Replace `app.py` with the filename where the Flask app resides.
+   You can also change `app` to something else, `server`, `main`, etc.
 
 ### Functionality
 
