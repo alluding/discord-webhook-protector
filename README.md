@@ -40,11 +40,12 @@
   - Incoming requests from unauthorized IPs will receive a `403 Forbidden` response.
 
 - **Request Type Check**
-
-`MIT License`
   - Requests using unauthorized HTTP methods (e.g., DELETE) will receive a `405 Method Not Allowed` response.
 
 - **Rate Limiting**
   - Limit the number of requests from a single IP within a specified timeframe (`ratelimit` attribute in seconds).
   - Exceeding the limit triggers a `429 Too Many Requests` response.
 ---
+
+
+`MIT License
