@@ -48,4 +48,4 @@
 ---
 
 
-`MIT License
+Licensed under `MIT`.
