@@ -40,6 +40,8 @@
   - Incoming requests from unauthorized IPs will receive a `403 Forbidden` response.
 
 - **Request Type Check**
+
+`MIT License`
   - Requests using unauthorized HTTP methods (e.g., DELETE) will receive a `405 Method Not Allowed` response.
 
 - **Rate Limiting**
