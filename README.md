@@ -1,7 +1,7 @@
 ## Flask Discord Webhook Protector
 
 ### Requirements
-- Python 3.x
+- Python 3.10+
 - Flask
 - requests
 
